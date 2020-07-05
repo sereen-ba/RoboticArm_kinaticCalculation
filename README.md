@@ -23,4 +23,4 @@ angle1= Totalangle -angle2
 remmber that all the trigonometric functions accept the angle in radian and the servo motor rotate in degree.
 
 ____
-Arthur: Sereen Bahdad.
+Author: Sereen Bahdad.
